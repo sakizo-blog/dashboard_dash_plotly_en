@@ -1,5 +1,5 @@
-### How to Create a Dashboard with Dash and Plotly
-Blog
+## How to Create a Dashboard with Dash and Plotly
+**Blog**
 * Part1: https://sakizo-blog.com/en/487/
 * Part2: https://sakizo-blog.com/en/642/
 * Part3: https://sakizo-blog.com/en/649/
